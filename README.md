@@ -1,11 +1,20 @@
-### Hi there 👋, Abeer Elmorshdy
+### Hi there 👋, I'm Abeer Mohamed Elmorshdy
 #### Artificial Intelligence || Software Programming 
 ![Artificial Intelligence || Software Programming ](https://github.com/Abeermorshdy/Abeermorshdy/blob/main/AI.jpeg)
 
 **Salam**, I'm Abeer from Egypt. I'm currently Student at KFS University **Artificial Intelligence** College. I develop my skills in programming with alx-africa **Software Engineer Program**.
+### Skills
+- C 
+- C++ 
+- git 
+- Shell 
+- Python 
+- Machine learning 
+- TensorFlow 
+- OpenCV 
+- Deep Learning 
 
-Skills: C / C++ / git / Shell / Python / Machine learning / TensorFlow / OpenCV / Deep Learning 
-
+### Summary
 - 🔭 I’m currently working on Software Developing 
 - 🌱 I’m currently learning Software Engineer Program at alx 
 - 👯 I’m looking to collaborate on Real Projects 
