@@ -1,6 +1,6 @@
-### Hi there 👋,I'm Abeer Elmorshdy
+### Hi there 👋, Abeer Elmorshdy
 #### Artificial Intelligence || Software Programming 
-![Artificial Intelligence || Software Programming ](https://media.licdn.com/dms/image/C4D16AQEbxYNzTnbEBA/profile-displaybackgroundimage-shrink_350_1400/0/1656446943743?e=1685577600&v=beta&t=A-j9w1kzlpG2ZiWfJI3h0wyJ-saX-MDqsXrT824vfSQ)
+![Artificial Intelligence || Software Programming ](https://github.com/Abeermorshdy/Abeermorshdy/blob/main/AI.jpeg)
 
 **Salam**, I'm Abeer from Egypt. I'm currently Student at KFS University **Artificial Intelligence** College. I develop my skills in programming with alx-africa **Software Engineer Program**.
 
@@ -23,5 +23,4 @@ Skills: C / C++ / git / Shell / Python / Machine learning / TensorFlow / OpenCV 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abeermorshdy)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Abeermorshdy)  
-
 
