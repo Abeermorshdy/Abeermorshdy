@@ -8,6 +8,7 @@
 - C++ 
 - git 
 - Shell 
+- MySQL
 - Python 
 - Machine learning 
 - TensorFlow 
