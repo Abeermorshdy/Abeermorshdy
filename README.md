@@ -4,8 +4,7 @@
 
 **Salam**, I'm Abeer from Egypt. I'm currently Student at KFS University **Artificial Intelligence** College. I develop my skills in programming with alx-africa **Software Engineer Program**.
 ### Skills
-- C 
-- C++ 
+- DSA
 - git 
 - Shell 
 - MySQL
@@ -16,8 +15,7 @@
 - Deep Learning 
 
 ### Summary
-- 🔭 I’m currently working on Software Developing 
-- 🌱 I’m currently learning Software Engineer Program at alx 
+- 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on Real Projects 
 - 📫 How to reach me: byralmrshdy41@gmail.com 
 
